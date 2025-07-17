@@ -1,7 +1,6 @@
 # ✈️ Aviation Accident Analysis & Predictive Modeling
 ![Python](https://img.shields.io/badge/Language-Python-blue?logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/Model-Logistic%20Regression-orange)
-![Weather](https://img.shields.io/badge/Feature-Weather%20Condition-lightgrey)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 This project analyzes over 88,000 aviation accident records from the United States using real-world data from the NTSB Accident Database. It explores spatial, temporal, and environmental patterns and uses logistic regression to predict accident severity based on weather conditions.
